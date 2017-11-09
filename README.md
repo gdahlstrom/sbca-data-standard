@@ -22,7 +22,7 @@ Effective standard models have been developed in the banking, insurance, pharmac
 
 # Example
 
-A quick sample of what a data file for a Component might look like:
+A quick sample of what a data file for a Component might look like (Note member and plate geometries are 3D):
 
     {
       "Name": "T-1",
