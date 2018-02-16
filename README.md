@@ -23,27 +23,28 @@ Effective standard models have been developed in the banking, insurance, pharmac
 The SBCA Unified-File-Format contains the following facts of a prefabricated component.
 
 General Component Infromation
+
 - Name/Label
 - Part Information
- - Members
-  - Name/Label
-  - Material
-  - 3D Geometry
-  - QC Information
- - Connectors
-  - Name/Label
-  - Material
-  - 3D Geometry
-  - QC Information (Required Teeth Count, etc)
- - Hangers
-  - Name/Label
-  - Location
- - Bearings
-   - Name/Label
-   - Location
- - Bracing
-   - Material
-   - Location
+   - Members
+     - Name/Label
+     - Material
+     - 3D Geometry
+     - QC Information
+  - Connectors
+    - Name/Label
+    - Material
+    - 3D Geometry
+    - QC Information (Required Teeth Count, etc)
+  - Hangers
+    - Name/Label
+    - Location
+  - Bearings
+    - Name/Label
+    - Location
+  - Bracing
+    - Material
+    - Location
 
 And other information about the physical makeup of the component.
 
