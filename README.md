@@ -1,8 +1,8 @@
-# Welcome to the SBCA Unified-File-Format Repository
+# Welcome to the SBCA Unified File Format Repository
 
-# What is the SBCA Unified-File-Format?
+# What is the SBCA Unified File Format?
 
-The SBCA Unified-File-Format developed by the [SBCA](https://www.sbcindustry.com/). It's purpose is to provide an standard data model for the interoperability of Machinery and Software that involved in the building, designing, shipping and quality control of Prefabricated Components and their connecting hardware, as well as other related information in the Prefabricated Component Industry. 
+The SBCA Unified File Format (or UFF) developed by the [SBCA](https://www.sbcindustry.com/). It's purpose is to provide an standard data model for the interoperability of Machinery and Software that involved in the building, designing, shipping and quality control of Prefabricated Components and their connecting hardware, as well as other related information in the Prefabricated Component Industry. 
 
 # What is a Data Standard?
 
@@ -20,7 +20,7 @@ Effective standard models have been developed in the banking, insurance, pharmac
 
 # What is in the SBCA Unified-File-Format?
 
-The SBCA Unified-File-Format contains the following facts of a prefabricated component.
+The SBCA Unified File Format contains the following facts of a prefabricated component.
 
 General Component Infromation
 
