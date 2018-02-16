@@ -52,7 +52,7 @@ And other information about the physical makeup of the component.
 
 # Who maintains and develops the SBCA Unified-File-Format?
 
-While the SBCA manages and approves the changes and development of this standard, input and pull requests are welcome from any interested parties. For more information on the process of pull requests check out this tutorial.
+While the SBCA manages and approves the changes and development of this standard, input and pull requests are welcome from any interested parties. If this is your first time using github, [here](https://www.youtube.com/watch?v=w3jLJU7DT5E) is a short explanation video. For more information on the process of pull requests check out [this tutorial](https://help.github.com/articles/about-pull-requests/)
 
 
 # Example
