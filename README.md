@@ -25,6 +25,8 @@ The SBCA Unified-File-Format contains the following facts of a prefabricated com
 General Component Infromation
 
 - Name/Label
+- Component Type 
+- Number of Plies
 - Part Information
    - Members
      - Name/Label
